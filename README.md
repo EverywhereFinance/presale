@@ -14,6 +14,13 @@
 |Optimism|0x32b7C4d32a94eBeE77D388B73D86dAeeE1655C87|0x3Ef9962A...C0D4ac0fDe|USDT,USDC,DAI|
 |Fantom|0x32b7C4d32a94eBeE77D388B73D86dAeeE1655C87|0x3Ef9962A...C0D4ac0fDe|USDC,DAI|
 
+# Security audit
+|  Info       | Value |
+| ----------- | ------------------------------------------------------------------------- |
+| **Date**    | February 2023                                                             |
+| **Auditor** | Bernd Artmüller ([@berndartmueller](https://twitter.com/berndartmueller)) |
+| **Status**  | **Final**                                                                 |
+| **Link**    | https://github.com/berndartmueller/audits/blob/40033a63d47193aad9dd0d58cbb126d4138dc76e/audits/Reunit%20Wallet/2023-02_Reunit_Wallet_Token_Presale_Audit_Report.md |
 
 # Conditions
   - Max : $1,000,000
